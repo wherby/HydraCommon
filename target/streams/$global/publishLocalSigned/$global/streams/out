@@ -1,0 +1,91 @@
+[0m[[0mdebug[0m] [0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.asc[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\srcs\hydracommon_2.12-sources.jar.asc[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.asc[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\docs\hydracommon_2.12-javadoc.jar[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\jars\hydracommon_2.12.jar.asc[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published hydracommon_2.12 to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\poms\hydracommon_2.12.pom[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml.sha1 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml.sha1[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0mdebug[0m] [0mC:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml.md5 already exists, nothing done[0m
+[0m[[33mwarn[0m] [0mAttempting to overwrite C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml.md5[0m
+[0m[[33mwarn[0m] [0m	This usage is deprecated and will be removed in sbt 1.0.[0m
+[0m[[0minfo[0m] [0m	published ivy to C:\Users\Administrator\.ivy2\local\io.github.wherby\hydracommon_2.12\0.1.0\ivys\ivy.xml[0m

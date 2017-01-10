@@ -1,0 +1,48 @@
+package
+publish-local
+publish
+publish-local
+clean
+publish-local
+publish
+show */*:pgpSecretRing
+show */*:pgpPublicRing
+publish
+compile
+dist
+assembly
+publish
+ show */*:pgpSecretRing
+publish
+pgp-cmd gen-key
+set pgpReadOnly := false
+pgp-cmd gen-key
+show */*:pgpSecretRing
+publish
+check-pgp-signatures
+last *:updatePgpSignature
+pgp-cmd send-key wherby hkp://pool.sks-keyservers.net
+publish
+check-pgp-signatures
+ last *:updatePgpSignatures
+publish-signed
+publish-local-signed
+publish-local
+publish-local-signed
+pgp-cmd list-keys
+pgp-cmd send-key cba8c8d2 hkp://pool.sks-keyservers.net
+publish-local-signed
+publish-signed
+pgp-cmd send-key cba8c8d2 http://pgp.mit.edu
+pgp-cmd send-key cba8c8d2 http://keyserver.ubuntu.com
+pgp-cmd send-key cba8c8d2 http://pool.sks-keyservers.net
+pgp-cmd send-key cba8c8d2 http://pgp.mit.edu:11371/
+pgp-cmd send-key cba8c8d2 http://pool.sks-keyservers.net:11371/
+pgp-cmd send-key cba8c8d2 http://keyserver.ubuntu.com:11371/
+pgp-cmd list-keys
+ last *:updatePgpSignatures
+pgp-cmd list-keys
+publish-local-signed
+pgp-cmd list-keys
+publish-local-signed
+publish-signed

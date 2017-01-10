@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>io.github.wherby</groupId>
+    <artifactId>hydracommon_2.12</artifactId>
+    <packaging>jar</packaging>
+    <description>HydraCommon</description>
+    <url>http://example.com</url>
+    <version>0.1.0</version>
+    <licenses>
+        <license>
+            <name>GPL-3.0</name>
+            <url>https://opensource.org/licenses/GPL-3.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <name>HydraCommon</name>
+    <organization>
+        <name>io.github.wherby</name>
+        <url>http://example.com</url>
+    </organization>
+    <scm>
+        <url>https://github.com/wherby/HydraCommon</url>
+        <connection>scm:git@github.com:wherby/HydraCommon.git</connection>
+    </scm>
+    <developers>
+        <developer>
+            <id>wherby</id>
+            <name>Tao Zhou</name>
+            <email>187225577@qq.com</email>
+            <url>https://github.com/wherby</url>
+        </developer>
+    </developers>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.12.2</version>
+        </dependency>
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>typesafereleases</id>
+            <name>typesafe-releases</name>
+            <url>http://repo.typesafe.com/typesafe/releases/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
+</project>
